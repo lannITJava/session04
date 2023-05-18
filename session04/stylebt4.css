@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(./anh/pastel.jpeg);
+}
+h1{
+
+    font-style: italic;
+    font-size: 50px;
+    margin: 50px 400px 30px;
+    
+}
+form{
+    margin-left: 400px;
+    color: black;
+}
+[type="file"]{
+    color: red;
+}
+[type="submit"]{
+    padding: 5px 10px;
+    background-color: greenyellow;
+    margin-left: 250px;
+}
